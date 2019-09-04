@@ -1,0 +1,32 @@
+body { margin:0; padding:0; }
+ 
+.wrap {
+    width:1345px;
+    margin:0 auto;
+}
+.header { 
+    height:100px;
+    margin-bottom:1px;
+    background-color:orange;
+	text-align: center;
+}
+.content {
+    width:1070px;
+    height:450px;
+    float:center;
+	text-align:center
+}
+.sidebar {
+    width:275px;
+    height:450px;
+    background-color:green;
+    float:left;
+}
+.footer {
+    height:70px;
+    margin-top:0px;
+    background-color:black;
+}
+.clear {
+    clear:both;
+}
